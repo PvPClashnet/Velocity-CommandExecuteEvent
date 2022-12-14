@@ -2,7 +2,7 @@
 
 [![Build Status](https://img.shields.io/jenkins/s/https/ci.velocitypowered.com/job/velocity.svg)](https://ci.velocitypowered.com/job/velocity-3.0.0/)
 [![Join our Discord](https://img.shields.io/discord/289587909051416579.svg?logo=discord&label=)](https://discord.gg/papermc)
-
+ 
 A Minecraft server proxy with unparalleled server support, scalability,
 and flexibility.
 
